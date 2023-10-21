@@ -86,9 +86,7 @@ if __name__ == '__main__':
     print("\n... Loading datasets ...")
     set_seed(args.seed)
     datasets = get_datasets(datasets_dir=args.datasets_dir)
-    print(datasets)  # 42162, 4685, 3089
-    # 42128: flat, 3364: group, 2338: group
-    # (summarized) 41269: flat, 3364: group, 2338: group
+    print(datasets)
 
     print("\n... Initializing model ...")
     tokenizer = T5Tokenizer.from_pretrained(args.model_checkpoint, model_max_length=args.max_source_len)
