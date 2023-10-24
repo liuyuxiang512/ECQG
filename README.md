@@ -1,6 +1,6 @@
 # Entity-Centric Question Generation
 
-This repository contains the code and dataset for the *Findings of EMNLP 2023* paper: "Ask To The Point: Open-Domain Entity-Centric Question Generation". [[link](https://arxiv.org/submit/5187449/view)]
+This repository contains the code and dataset for the *Findings of EMNLP 2023* paper: "Ask To The Point: Open-Domain Entity-Centric Question Generation". [[link](https://arxiv.org/abs/2310.14126)]
 
 ECQG dataset is available in [Google Drive](https://drive.google.com/drive/folders/1akNKLzoTu61UUv0IMd7D6hv6pldgOfMt?usp=share_link). 
 
